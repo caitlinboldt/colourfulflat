@@ -1,0 +1,232 @@
+body {
+
+}
+
+/* Nav Bar */
+
+.container-fluid nav span {
+    padding-left: 175px;
+    padding-right: 150px;
+
+}
+nav ul li {
+    padding: 0 15px;
+}
+
+/* Part 1 */
+
+.container-fluid {
+    background-color: lightblue;
+    height: 610px;
+}
+.carousel-item img {
+    height: 450px;
+    width: 500px;
+}
+.carousel h1 {
+    color: white;
+    font-size: 80px;
+    font-family: 'Niconne', cursive;
+}
+/* Part 2 */
+
+.part2 {
+    padding: 50px 10px;
+}
+.part2 h6 {
+    font-weight: 700;
+    font-size: 20px;
+    padding: 10px;
+}
+#mac {
+    height: 140px;
+    width: 160px;
+}
+#lightbulb {
+    height: 140px;
+    width: 120px;
+}
+#browsers {
+    height: 140px;
+    width: 160px;
+}
+
+/* Part 3 */
+
+.part3 {
+    background-color: lightgreen;
+    color: white;
+    height: 950px;
+}
+.part3 h2 {
+    font-size: 60px;
+    font-weight: 100;
+    padding: 20px 0 10px 0;
+}
+.part3 p {
+    font-size: 14px;
+    padding-bottom: 15px;
+}
+.part3 ul li a {
+    color: white;
+}
+.part3 img {
+    height: 300px;
+    padding: 10px;
+    width: 400px;
+}
+.part3 button {
+    font-weight: 600;
+    padding: 15px 20px;
+    margin: 30px;
+}
+
+/* Part 4 */
+
+.part4 .btn1 {
+    background-color: lightblue;
+    border: none;
+    padding: 10px 15px;
+}
+.btn1:hover {
+    background-color: darkgray;
+}
+.part4 .btn2 {
+    background-color: lightgreen;
+    border: none;
+    padding: 10px 15px;
+}
+.btn2:hover {
+    background-color: darkgray;
+}
+.part4 img {
+    height: 100px;
+    margin-top: 10px;
+    width: 100px;
+}
+.part4 h5 {
+    font-weight: 600;
+}
+.part4 p {
+   font-weight: 200;
+}
+.part4 {
+    padding: 50px;
+}
+/* Part 5 */
+
+.part5 {
+    background-color: lightpink;
+    height: 800px;
+}
+.part5 h2 {
+    color: white;
+    font-size: 60px;
+    font-weight: 100;
+    padding: 20px 0 5px 0;
+}
+.part5 .top {
+    color: white;
+    font-size: 14px;
+    padding-bottom: 25px;
+}
+.part5 .fa-facebook-f {
+    color: #3B60B8;
+    font-size: 20px;
+}
+.part5 .fa-twitter {
+    color: #009EFA;
+    font-size: 20px;
+}
+.part5 .fa-pinterest {
+    color: #D00000;
+    font-size: 20px;
+}
+
+/* Part 6 */
+.part6 {
+    height: 650px;
+}
+.part6 h2 {
+    color: white;
+    font-size: 60px;
+    font-weight: 100;
+    padding: 20px 0 5px 0;
+}
+.part6 .top {
+    color: white;
+    font-size: 14px;
+    padding-bottom: 25px;
+}
+.part6 img {
+    height: 150px;
+}
+.part6 h6 {
+    font-weight: 100;
+    font-style: italic;
+}
+.part6 button {
+    font-weight: 600;
+    padding: 15px 20px;
+    margin: 30px;
+}
+
+
+/* Part 7 - Footer */
+
+.part7 {
+    background-color: black;
+    height: 700px;
+    opacity: 0.8;
+}
+.part7 h2 {
+    color: white;
+    font-size: 60px;
+    font-weight: 100;
+    padding: 20px 0 5px 0;
+}
+.part7 p {
+    color: white;
+}
+.part7 .form-group {
+    width: 500px;
+}
+.part7 button {
+    color: black;
+    font-weight: 600;
+    padding: 15px 20px;
+    margin: 30px;
+}
+.part7 button:hover {
+    background-color: gray;
+}
+
+/* Footer */
+.footer {
+    padding: 20px;
+}
+.footer hr {
+    color: black;
+}
+.footerlinks {
+    float: left;
+}
+.footerlinks a {
+    color: white;
+    padding: 5px 10px 0 10px;
+}
+.footerlinks a:hover {
+    color: gray;
+}
+.copyright {
+    float: right;
+}
+.copyright h6 {
+    color: white;
+    font-size: 12px;
+    font-weight: 200;
+}
+.copyright span {
+    color: lightgreen;
+    font-weight: 600;
+}
