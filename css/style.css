@@ -1,6 +1,6 @@
 /* Nav Bar */
 
-.container-fluid nav span {
+.part1 nav span {
     padding-left: 175px;
     padding-right: 150px;
 }
@@ -14,6 +14,9 @@ nav ul li {
     background-color: lightblue;
     height: 610px;
 }
+.carousel {
+    padding-top: 50px;
+}
 .carousel-item img {
     height: 450px;
     width: 500px;
@@ -23,6 +26,7 @@ nav ul li {
     font-size: 80px;
     font-family: 'Niconne', cursive;
 }
+
 /* Part 2 */
 
 .part2 {
@@ -70,7 +74,7 @@ nav ul li {
     padding: 10px;
     width: 400px;
 }
-.part3 button {
+.part3 .btn {
     font-weight: 600;
     padding: 15px 20px;
     margin: 30px;
@@ -108,6 +112,7 @@ nav ul li {
 .part4 {
     padding: 50px;
 }
+
 /* Part 5 */
 
 .part5 {
